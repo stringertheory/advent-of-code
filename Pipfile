@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+networkx = "*"
+requests = "*"
+boltons = "*"
+sortedcontainers = "*"
+traces = "*"
+python-dateutil = "*"
+termcolor = "*"
+pynput = "*"
+matplotlib = "*"
+pygraphviz = "*"
+scipy = "*"
+autoflake = "*"
+
+[requires]
+python_version = "3.8"

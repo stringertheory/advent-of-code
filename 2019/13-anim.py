@@ -165,7 +165,7 @@ def draw(game):
         print(''.join(row))
 
             
-i = Intcode('input.txt')
+i = Intcode('input-13.txt')
 i.code[0] = 2
 
 outputs = []
